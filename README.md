@@ -2,7 +2,7 @@
 
 I am a freelancer data visualization engineer working from Tbilisi, Georgia.
 
-Specialized on web-based interactive visualizations. Building complex and unique visualizations that shows insights of data.
+Specialized on web-based complex and unique data visualizations.
 
 ## Find me around the web 🌎:
 - <a href="https://ghviniashvili.com">Portfolio</a>
