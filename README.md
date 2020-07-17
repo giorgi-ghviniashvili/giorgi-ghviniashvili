@@ -1,6 +1,6 @@
 # Hi! My name is Giorgi 👋
 
-Building complex and unique data visualizations
+### Building complex and unique data visualizations
 
 <img src="https://raw.githubusercontent.com/giorgi-ghviniashvili/giorgi-ghviniashvili/master/image.png" alt="banner">
 
