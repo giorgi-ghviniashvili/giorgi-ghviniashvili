@@ -1,8 +1,9 @@
 # Hi! My name is Giorgi 👋
 
-I am a freelancer data visualization engineer working from Tbilisi, Georgia.
+Building complex and unique data visualizations
 
-Specialized on web-based interactive visualizations. Building complex and unique visualizations that shows insights of data.
+<img src="https://raw.githubusercontent.com/giorgi-ghviniashvili/giorgi-ghviniashvili/master/image.png" alt="banner">
+
 
 ## Find me around the web 🌎:
 - <a href="https://ghviniashvili.com">Portfolio</a>
